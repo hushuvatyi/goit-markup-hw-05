@@ -30,6 +30,15 @@ a {
     color: #2e2f42;
 }
 
+.nav-list-item {
+    color: #2e2f42;
+}
+
+.nav-list-item:hover,
+.nav-list-item:focus {
+    color: #404bbf;
+}
+
 .portfolio {
 }
 .section-title {
