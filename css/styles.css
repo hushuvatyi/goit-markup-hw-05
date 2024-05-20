@@ -30,12 +30,13 @@ a {
     color: #2e2f42;
 }
 
-.nav-list-item {
+.nav-link {
     color: #2e2f42;
+    font-weight: 500;
 }
 
-.nav-list-item:hover,
-.nav-list-item:focus {
+.nav-link:hover,
+.nav-link:focus {
     color: #404bbf;
 }
 
