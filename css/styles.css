@@ -40,6 +40,18 @@ a {
     color: #404bbf;
 }
 
+.address {
+    font-style: normal;
+}
+
+.address-item {
+    color: #434455;
+}
+
+.address-item:hover,
+.address-item:focus {
+    color: #404bbf;
+}
 .portfolio {
 }
 .section-title {
