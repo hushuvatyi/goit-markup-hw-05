@@ -86,15 +86,87 @@ a {
 }
 /* ---------------------------------------- */
 
+/* ----------------- ADVANTAGES ------------------ */
+
+.advantages {
+}
+
+.advantages-list-item-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.advantages-list-item-text {
+}
+
+/* ------------------------------------------------ */
+
+/* ------------------- OUR TEAM ----------------- */
+
+.team {
+    border-color: #f4f4fd;
+}
+
+.team-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.team-list-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-list-text {
+    text-align: center;
+}
+/* ------------------------------------------------ */
+
+/* -------------------- PORTFOLIO ------------------ */
 .portfolio {
 }
+
 .section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
+
 .portfolio-list {
 }
 .portfolio-list-item {
 }
+
 .portfolio-list-item-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
+
 .portfolio-list-item-text {
+}
+/* --------------------------------------------------- */
+
+/* ----------------- FOOTER --------------------- */
+.footer {
+    border-color: #2e2f42;
+}
+
+.footer-text {
+    color: #f4f4fd;
 }
