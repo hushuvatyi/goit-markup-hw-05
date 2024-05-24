@@ -89,6 +89,7 @@ img {
 .address-list {
     display: flex;
     padding: 24px 0 24px;
+    gap: 40px;
 }
 
 .address-item {
