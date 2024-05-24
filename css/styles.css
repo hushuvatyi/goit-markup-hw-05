@@ -50,12 +50,6 @@ img {
     align-items: center;
 }
 
-.navigation > ul {
-    display: flex;
-    gap: 40px;
-    padding: 24px 0 24px;
-}
-
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -71,9 +65,16 @@ img {
     color: #2e2f42;
 }
 
+.nav-list {
+    display: flex;
+    gap: 40px;
+    padding: 24px 0 24px;
+}
+
 .nav-link {
     color: #2e2f42;
     font-weight: 500;
+    padding: 24px 0;
 }
 
 .nav-link:hover,
