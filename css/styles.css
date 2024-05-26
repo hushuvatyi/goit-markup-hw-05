@@ -49,6 +49,10 @@ img {
     border-bottom: 1px solid #e7e9fc;
 }
 
+.header-container {
+    display: flex;
+}
+
 .navigation {
     display: flex;
     align-items: center;
