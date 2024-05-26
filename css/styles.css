@@ -40,6 +40,10 @@ img {
     padding: 0 15px;
 }
 
+.flex-column {
+    flex-direction: column;
+}
+
 /* --------------- HEADER --------------- */
 .header {
     border-bottom: 1px solid #e7e9fc;
@@ -107,10 +111,6 @@ img {
 .hero {
     background-color: #2e2f42;
     padding: 188px 0;
-}
-
-.hero-container {
-    flex-direction: column;
 }
 
 .hero-title {
