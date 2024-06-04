@@ -440,9 +440,9 @@ img {
     gap: 16px;
 }
 
-.footer-link {
+/* .footer-link {
     transition: none;
-}
+} */
 
 .footer-link:hover,
 .footer-link:focus {
