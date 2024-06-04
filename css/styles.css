@@ -230,9 +230,6 @@ img {
     margin-bottom: 8px;
 }
 
-.advantages-list-item-text {
-}
-
 /* ------------------------------------------------ */
 
 /* ------------------- OUR TEAM ----------------- */
@@ -428,4 +425,26 @@ img {
 .footer-text {
     color: #f4f4fd;
     max-width: 264px;
+}
+
+.footer-icon-list-text {
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #fff;
+}
+
+.footer-icon-list {
+    gap: 16px;
+}
+
+.footer-link {
+    transition: none;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+    background-color: #31d0aa;
 }
