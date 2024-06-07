@@ -481,6 +481,29 @@ img {
 .subscribe-form-input-email::placeholder {
     color: #fff;
 }
+.subscribe-form-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    padding: 8px 24px;
+    min-width: 165px;
+    height: 40px;
+    background-color: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #fff;
+    border: none;
+}
+
+.subscribe-form-button > svg {
+    margin-bottom: 16px;
+}
+
 /* -------------------- MODAL ------------------ */
 
 .modal-overlay {
