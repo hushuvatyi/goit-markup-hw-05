@@ -498,9 +498,10 @@ img {
     text-align: center;
     color: #fff;
     border: none;
+    cursor: pointer;
 }
 
-.subscribe-form-button > svg {
+.button-icon {
     margin-bottom: 16px;
 }
 
@@ -518,8 +519,8 @@ img {
     align-items: center;
     justify-content: center;
 
-    /* opacity: 0;
-    pointer-events: none; */
+    opacity: 0;
+    pointer-events: none;
 }
 
 .modal-overlay.is-open {
