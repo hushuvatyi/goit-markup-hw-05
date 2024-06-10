@@ -631,7 +631,7 @@
                 </div>
             </div>
         </footer>
-        <div class="container modal-overlay">
+        <div class="container modal-overlay is-open">
             <div class="modal">
                 <button type="button" class="modal-button"></button>
                 <p class="modal-text">
@@ -671,19 +671,27 @@
                             />
                         </div>
                     </div>
-                    <div class="form-container">
+                    <div class="form-textarea-container">
                         <label for="user-comment" class="form-lable"
                             >Comment</label
                         >
 
                         <textarea
-                            type="text"
                             name="user-comment"
                             id="user-comment"
                             class="form-textarea"
                             placeholder="Text input"
                         >
                         </textarea>
+                    </div>
+                    <div class="checkbox-container">
+                        <input
+                            type="checkbox"
+                            id="user-privacy"
+                            value="true"
+                            name="user-privacy"
+                            class=""
+                        />
                     </div>
                 </form>
             </div>
