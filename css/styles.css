@@ -545,7 +545,7 @@ img {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-button {
+.modal-close-button {
     position: absolute;
     border-radius: 4px;
     width: 24px;
@@ -564,10 +564,19 @@ img {
         border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-button:hover,
-.modal-button:focus {
+.modal-close-button:hover,
+.modal-close-button:focus {
     background-color: #404bbf;
     border: none;
+}
+
+.close-button-icon-style {
+    fill: #2e2f42;
+}
+
+.close-button-icon-style:hover,
+.close-button-icon-style:focus {
+    fill: #fff;
 }
 
 .modal-text {
