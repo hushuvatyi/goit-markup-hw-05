@@ -449,6 +449,10 @@ img {
     background-color: #31d0aa;
 }
 
+.subscribe-form-container {
+    margin-left: 80px;
+}
+
 .subscribe-form-container-text {
     margin-bottom: 16px;
     font-weight: 500;
